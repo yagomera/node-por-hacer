@@ -1,0 +1,10 @@
+## APLICACIÓN DE COMANDOS
+
+ESTE ES EL EJERCICIO DE CURSO DE ACCESO DE COMANDOS CON ACCESOS A FICHEROS
+
+
+Instalar paquetes node con:
+
+```
+npm install
+```
